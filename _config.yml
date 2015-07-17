@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               schulze
+tagline:             Nothing really.
+url:                 http://schulze.github.io
 paginate:            1
 baseurl:             ""
 
@@ -32,5 +32,5 @@ github:
 pages_list:
   about: '/about'
   archive: '/archive'
-  feed: 'atom.xml'
+  feed: '/atom.xml'
 
