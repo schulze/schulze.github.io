@@ -1,12 +1,10 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               schulze
-tagline:             Zeugs.
+title:               nonterminal
+tagline:             Notes.
 url:                 http://schulze.github.io
 paginate:            1
 baseurl:             ""
@@ -21,7 +19,7 @@ sass:
 # About/contact
 author:
   name:              schulze
-  url:                ""
+  url:               ""
   email:             ""
 
 # Custom vars
