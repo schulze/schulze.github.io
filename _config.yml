@@ -30,5 +30,6 @@ github:
 pages_list:
   about: '/about'
   archive: '/archive'
+  gemini: 'gemini://nonterminal.net'
   feed: '/atom.xml'
 
